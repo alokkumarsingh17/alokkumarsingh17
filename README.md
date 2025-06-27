@@ -21,9 +21,9 @@
 | Platform | Profile |
 |---------|---------|
 | LeetCode | [Leetcode](https://leetcode.com/u/alokkumarsingh_17/) |
-| GeeksforGeeks | (https://www.geeksforgeeks.org/user/alok171exvq/) |
-| CodeChef | (https://www.codechef.com/users/alok17112002) |
-| HackerRank | (https://www.hackerrank.com/profile/alok17112002) |
+| GeeksforGeeks | []GeeksforGeeks](https://www.geeksforgeeks.org/user/alok171exvq/) |
+| CodeChef | [CodeChef](https://www.codechef.com/users/alok17112002) |
+| HackerRank | [HackerRank](https://www.hackerrank.com/profile/alok17112002) |
 
 ---
 
