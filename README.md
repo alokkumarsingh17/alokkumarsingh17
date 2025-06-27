@@ -20,11 +20,10 @@
 
 | Platform | Profile |
 |---------|---------|
-| GitHub | [alokkumarsingh17](https://github.com/alokkumarsingh17) |
-| LeetCode | [Your LeetCode Username](https://leetcode.com/YourLeetCodeUsername) |
-| GeeksforGeeks | [Your GFG Username](https://auth.geeksforgeeks.org/user/YourGFGUsername/profile) |
-| CodeChef | [Your CodeChef Username](https://www.codechef.com/users/YourCodeChefUsername) |
-| HackerRank | [Your HackerRank Username](https://www.hackerrank.com/YourHackerRankUsername) |
+| LeetCode | (https://leetcode.com/u/alokkumarsingh_17/) |
+| GeeksforGeeks | (https://www.geeksforgeeks.org/user/alok171exvq/) |
+| CodeChef | (https://www.codechef.com/users/alok17112002) |
+| HackerRank | (https://www.hackerrank.com/profile/alok17112002) |
 
 ---
 
