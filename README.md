@@ -21,7 +21,7 @@
 | Platform | Profile |
 |---------|---------|
 | LeetCode | [Leetcode](https://leetcode.com/u/alokkumarsingh_17/) |
-| GeeksforGeeks | []GeeksforGeeks](https://www.geeksforgeeks.org/user/alok171exvq/) |
+| GeeksforGeeks | [GeeksforGeeks](https://www.geeksforgeeks.org/user/alok171exvq/) |
 | CodeChef | [CodeChef](https://www.codechef.com/users/alok17112002) |
 | HackerRank | [HackerRank](https://www.hackerrank.com/profile/alok17112002) |
 
@@ -56,12 +56,3 @@
 - **[Amazone-Clone](https://github.com/alokkumarsingh17/Amazone-Clone))** — Another project with a short highlight.
 - **[Calculator](https://github.com/alokkumarsingh17/Calculator)))**
 
----
-
-### 💬 Connect with Me
-
-Feel free to open an issue or discussion, or just say hi!
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
