@@ -52,7 +52,7 @@
 
 ### 📂 Projects Highlights
 
-- **[Hostel_Management](https://github.com/alokkumarsingh17/Hostel_Management))**
-- **[Amazone-Clone](https://github.com/alokkumarsingh17/Amazone-Clone))**
-- **[Calculator](https://github.com/alokkumarsingh17/Calculator))**
+- **[Hostel_Management](https://github.com/alokkumarsingh17/Hostel_Management)**
+- **[Amazone-Clone](https://github.com/alokkumarsingh17/Amazone-Clone)**
+- **[Calculator](https://github.com/alokkumarsingh17/Calculator)**
 
