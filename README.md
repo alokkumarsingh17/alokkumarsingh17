@@ -45,7 +45,7 @@
 - **Web Development:-** HTML, CSS, JavaScript, React.js (currently learning) 
 - **Database:-** MySQL  
 - **Tools & Platforms:-** Git, GitHub, MS Excel, Power BI
-- **Core Concepts:-** Data Structures & Algorithms, OOPs, SQL Queries, Problem Solving
+- **Core Concepts:-** Data Structures & Algorithms, OOPs, Problem Solving
 - **Big Data Concepts:-** Familiarity with Big Data
 
 ---
