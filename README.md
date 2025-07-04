@@ -1,3 +1,73 @@
+👋 Hi, I'm Alok Kumar Singh
+I'm a passionate developer focused on solving complex problems, writing clean code, and building impactful web applications.
+🔭 Currently Working On
+Sharpening my problem-solving and algorithmic thinking skills
+
+Building full-stack projects using Python, JavaScript, React, and more
+
+🌱 Currently Learning
+Advanced data structures and algorithms
+
+Building scalable applications with React.js
+
+💬 Ask Me About
+Software development best practices
+
+Writing clean, maintainable code
+
+Web design, frontend/backend development
+
+Competitive programming and coding challenges
+
+📫 Let's Connect
+📧 Email: singh.alokk17@gmail.com
+
+🔗 LinkedIn: Alok Kumar Singh
+
+🔗 Coding Profiles
+   Platform	    |   Profile Link
+🟠 LeetCode  https://leetcode.com/u/alokkumarsingh_17/)
+🟢 GeeksforGeeks	Visit Profile
+🔵 CodeChef	Visit Profile
+🟢 HackerRank	Visit Profile
+
+💻 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alokkumarsingh17&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alokkumarsingh17&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
+🚀 Tech Stack & Tools
+Languages: Java, C, C++, Python
+
+Frontend: HTML, CSS, JavaScript, React.js (learning)
+
+Database: MySQL
+
+Tools: Git, GitHub, MS Excel, Power BI
+
+Core Skills: DSA, OOPs, Problem Solving
+
+Others: Familiar with Big Data concepts
+
+📂 Featured Projects
+Here are some of my favorite builds:
+
+🔹 Hostel Management System – A system to manage hostel operations efficiently
+
+🔸 Amazon Clone – UI clone of Amazon built with modern web technologies
+
+🔹 Smart Calculator – A basic calculator with modern UI
+
+✨ Fun Fact
+I believe in consistency and solving one problem a day keeps the bu
+
+
+
+
+
+
+
+
+
+
+
 # Hi there, I'm Alok Kumar Singh 👋
 
 ### 🔭 I’m currently working on
