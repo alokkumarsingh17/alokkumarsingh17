@@ -68,7 +68,7 @@
 
 ### 📂 Projects Showcase
 
-| Project | Description |
+| Projects |
 |--------|-------------|
 | 🏨 [**Hostel_Management**](https://github.com/alokkumarsingh17/Hostel_Management) 
 | 🛍️ [**Amazon Clone**](https://github.com/alokkumarsingh17/Amazone-Clone) 
